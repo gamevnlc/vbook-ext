@@ -5,15 +5,15 @@
   },
   "data": [
     {
-      "name": "Bạch Ngọc Sách",
-      "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
-      "version": 13,
-      "source": "https://bnsach.com/reader",
-      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
-      "description": "Đọc truyện trên trang bnsach.com/reader",
-      "type": "novel",
-      "locale": "vi_VN"
+      "name": "QidianG",
+      "author": "gamevnlc",
+      "path": "https://raw.githubusercontent.com/gamevnlc/vbook-ext/main/qidian/plugin.zip",
+      "version": 1,
+      "source": "https://www.qidian.com",
+      "icon": "https://raw.githubusercontent.com/gamevnlc/vbook-ext/main/qidian/icon.png",
+      "description": "Đọc truyện trên trang qidian",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
     }
   ]
 }
