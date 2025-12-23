@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Bạch Ngọc Sách",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/plugin.zip",
+      "version": 13,
+      "source": "https://bnsach.com/reader",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/bachngocsach/icon.png",
+      "description": "Đọc truyện trên trang bnsach.com/reader",
+      "type": "novel",
+      "locale": "vi_VN"
+    }
+  ]
+}
