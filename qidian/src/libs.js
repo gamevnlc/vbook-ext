@@ -113,6 +113,7 @@ var $ = {
         var _empty = Html.parse('').select('body');
 
         var els = e.select(q);
+
         if (els == '' || els.size() == 0) return _empty;
         if (i == undefined) return els.first();
 
